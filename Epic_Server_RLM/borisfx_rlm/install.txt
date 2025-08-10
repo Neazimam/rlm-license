@@ -1,0 +1,31 @@
+1. The default TCP port number for BorisFX RLM floating license is 5053.
+
+   If you want to change this value, edit both license files "borisfx.lic" and "floating-client.lic".
+   The port number is the last parameter of the first line.
+
+   The port number must be the same in both files.
+
+
+2. Copy the following files goes into RLM server's directory:
+
+   borisfx.lic
+   genarts.opt
+   genarts.set
+
+   Windows users should also copy the scripts we included:
+
+   borisfx_rlm_install_service.cmd
+   borisfx_rlm_uninstall_service.cmd
+
+
+3. Copy "floating_client.lic" in Genarts RLM directory which is located in:
+
+   For Windows: C:\ProgramData\GenArts\rlm
+   For Mac: /Library/Application Support/GenArts/rlm/
+   For Linux: /usr/genarts/rlm/
+
+
+4. Start RLM floating license server.
+
+
+5. Install and enjoy your BorisFX products.

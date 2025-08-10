@@ -1,0 +1,35 @@
+01/07 11:21 (genarts) RLM License Server Version 16.1BL1 for ISV "genarts"
+01/07 11:21 (genarts) Settings from RLM Version 11.0BL2 for ISV "genarts"
+01/07 11:21 (genarts) Server architecture: x64_w4
+
+    Copyright (C) 2006-2024, Reprise Software, Inc. All rights reserved.
+
+    RLM contains software developed by the OpenSSL Project
+    for use in the OpenSSL Toolkit (http://www.openssl.org)
+    Copyright (c) 2024 The OpenSSL Project. All rights reserved.
+
+01/07 11:21 (genarts) Using options file genarts.opt
+01/07 11:21 (genarts) Setting TIMEOUT for all products to 3600 secs.
+01/07 11:21 (genarts) 
+01/07 11:21 (genarts) Server started on VIRUS (hostid: ANY) for:
+01/07 11:21 (genarts) 	bcc-mocha-sapphire-sfx-optics bccae bccaemulti 
+01/07 11:21 (genarts) 	bccaemultirender bccaerender bccavxmulti bccofx 
+01/07 11:21 (genarts) 	bfxsuite bfxsuite-r bundlemultihost-bcc-mocha-sapphire-r1 
+01/07 11:21 (genarts) 	mocha mochac4d mochapro mochapro.adjusttrack 
+01/07 11:21 (genarts) 	mochapro.core mochapro.grain mochapro.image 
+01/07 11:21 (genarts) 	mochapro.imp5 mochapro.layerfx mochapro.lens 
+01/07 11:21 (genarts) 	mochapro.matte mochapro.mv mochapro.patch mochapro.primatte 
+01/07 11:21 (genarts) 	mochapro.python mochapro.remove mochapro.soho 
+01/07 11:21 (genarts) 	mochapro.stable mochapro.track mochapro.update 
+01/07 11:21 (genarts) 	mochapro.warper mochapro_plugin mochavr_plugin 
+01/07 11:21 (genarts) 	mp-sapphire mpp mpp-adobe mpp-adobe-r mpp-multihost 
+01/07 11:21 (genarts) 	mpp-multihost-r mpp-multihost-so mpp-multihost-so-r 
+01/07 11:21 (genarts) 	mpp-ofx mpp-ofx-r optics pipro r1 sapphire 
+01/07 11:21 (genarts) 	sapphire_ae_ofx_sparks_avx_104 silhouette syntheyesintro 
+01/07 11:21 (genarts) 	syntheyespro crumplepop_all_gui 
+01/07 11:21 (genarts) 
+01/07 11:21 (genarts) License files:
+01/07 11:21 (genarts)     F:\After Effect Recources\PLUGIN\Simple Install\Boris FX Sapphire for After Effects 2025 v18.0 (x64) [FileCR]\Boris FX Sapphire for After Effects 2025 v18.0 (x64)\Crack\BDY-RLM_ISV_Bundles\RLM_ISV_Bundles\BorisFX_(GenArts)\borisfx.lic
+01/07 11:21 (genarts)     floating-client.lic
+01/07 11:21 (genarts) 
+01/07 11:22 (genarts) Shutdown request by signal@local

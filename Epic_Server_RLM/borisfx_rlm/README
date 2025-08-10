@@ -1,0 +1,14 @@
+RLM license administration kit, Copyright (C) 2007-2024, Reprise Software, Inc.
+
+This is the RLM License Administration Bundle for 
+
+This kit contains:
+
+demo            - the demo ISV server
+rlm             - the rlm executable
+rlmtests        - the rlm performance tests
+rlmutil         - the rlm utilities
+rlmanon         - rlm logfile anonomizer
+VERSION         - the RLM version of these tools
+Note: the rlm License Administration manual is at:
+      www.reprisesoftware.com/RLM_License_Administration.pdf

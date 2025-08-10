@@ -1,0 +1,8 @@
+HOST localhost ANY 5063
+ISV lightmap
+
+LICENSE lightmap rlm_server_enable_vm 1.0 permanent 100 sig="c2N252d5ZzM1xc2N252d5ZzM1xc2N252d5ZzM1xc2N252d5ZzM1xc2N252d5ZzM1x"
+
+LICENSE lightmap hdrlightstudio 2099.1231 permanent 100 hostid=ANY start=01-jan-2022 issuer=X-FORCE customer=U-00026301 contract=automotive issued=01-jan-2022 options=cf1a1ec3ff4eef4c0585dfb498f2aac73b392293cf88347fcfd6af9c994ccf30 platforms="x64_w x64_l x64_m" sig="c2N252d5ZzM1xc2N252d5ZzM1xc2N252d5ZzM1xc2N252d5ZzM1xc2N252d5ZzM1x"
+LICENSE lightmap hdrls_tier1 2099.1231 permanent 100 hostid=ANY start=01-jan-2022 issuer=X-FORCE customer=U-00026301 contract=automotive issued=01-jan-2022 options=cf1a1ec3ff4eef4c0585dfb498f2aac73b392293cf88347fcfd6af9c994ccf30 platforms="x64_w x64_l x64_m" sig="c2N252d5ZzM1xc2N252d5ZzM1xc2N252d5ZzM1xc2N252d5ZzM1xc2N252d5ZzM1x"
+LICENSE lightmap hdrls_tier2 2099.1231 permanent 100 hostid=ANY start=01-jan-2022 issuer=X-FORCE customer=U-00026301 contract=automotive issued=01-jan-2022 options=cf1a1ec3ff4eef4c0585dfb498f2aac73b392293cf88347fcfd6af9c994ccf30 platforms="x64_w x64_l x64_m" sig="c2N252d5ZzM1xc2N252d5ZzM1xc2N252d5ZzM1xc2N252d5ZzM1xc2N252d5ZzM1x"

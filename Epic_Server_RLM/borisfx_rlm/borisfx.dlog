@@ -1,0 +1,20 @@
+01/07 11:21 (rlm) RLM License Server Version 16.1BL1
+
+	Copyright (C) 2006-2024, Reprise Software, Inc. All rights reserved.
+
+01/07 11:21 (rlm) License server started on VIRUS
+01/07 11:21 (rlm) Server architecture: x64_w4
+01/07 11:21 (rlm) License files:
+01/07 11:21 (rlm)     F:\After Effect Recources\PLUGIN\Simple Install\Boris FX Sapphire for After Effects 2025 v18.0 (x64) [FileCR]\Boris FX Sapphire for After Effects 2025 v18.0 (x64)\Crack\BDY-RLM_ISV_Bundles\RLM_ISV_Bundles\BorisFX_(GenArts)\borisfx.lic
+01/07 11:21 (rlm)     floating-client.lic
+01/07 11:21 (rlm) 
+01/07 11:21 (rlm) Using SSL certs ./rlm-cert.pem and ./rlm-key.pem
+01/07 11:21 (rlm) Web server starting https://localhost:5054
+01/07 11:21 (rlm) Using TCP/IP port 5053
+01/07 11:21 (rlm) ... adding UDP/IP port 5053
+01/07 11:21 (rlm) Starting ISV server genarts on port 63300
+01/07 11:21 (rlm) New thread created to watch ISV genarts
+01/07 11:21 (rlm) Clock jumped by +28937121 minutes
+01/07 11:22 (rlm) Shutdown request by signal@local
+01/07 11:22 (rlm) Sending shutdown msg to genarts (pid: 8532)
+01/07 11:22 (rlm) genarts - SHUTDOWN
